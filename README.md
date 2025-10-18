@@ -73,6 +73,7 @@ O backend será implementado em **Java**, utilizando o framework **Spring Boot**
 - **Docker**
 - **Maven**
 - **Swagger**
+- **Angular ?**
 
 ---
 
