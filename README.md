@@ -92,3 +92,8 @@ src/
 │ ├── application.properties
 │ └── static/
 └── test/
+
+## 💻 Desenvolvido por:
+- **Carlos Eduardo**
+- **Leonardo Lima**
+- **Luiz Carlos**
