@@ -78,6 +78,7 @@ O backend será implementado em **Java**, utilizando o framework **Spring Boot**
 
 ## 🗺️ Estrutura Inicial do Projeto
 
+```text
 src/
 ├── main/
 │ ├── java/com/br/social-network/
