@@ -93,6 +93,9 @@ src/
 │ └── static/
 └── test/
 
+## Executar o Docker
+Com o docker executando, bassta acessar a pasta do projeto, executar o comando docker compose up -d e em seguida acessar o path http://localhost:8080/hello
+
 ## 💻 Desenvolvido por:
 - **Carlos Eduardo**
 - **Leonardo Lima**
